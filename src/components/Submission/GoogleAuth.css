@@ -1,0 +1,10 @@
+.login-with-google-btn {
+  background-color: #007bff;
+  color: #fff;
+  margin-top: 10px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
